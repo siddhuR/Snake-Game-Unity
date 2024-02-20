@@ -419,7 +419,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 641bb1c52b458ab49a8b85e36afb7585, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tailPrefab: {fileID: 314135987}
   moveSpeed: 3
 --- !u!61 &314135992
 BoxCollider2D:
